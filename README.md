@@ -85,17 +85,6 @@ cropMargin = 20;           % Margin cropping (pixel)
 - **Padding technique** untuk menghindari black borders
 - **Smooth edge blending** untuk transisi halus
 
-## 📈 Interpretasi Hasil
-
-### Reduksi Getaran
-- **> 70%**: Stabilisasi sangat baik
-- **50-70%**: Stabilisasi baik
-- **< 50%**: Perlu tuning parameter
-
-### Kualitas Video
-- **PSNR > 30 dB**: Kualitas sangat baik
-- **SSIM > 0.8**: Preservasi struktur baik
-
 ## 🛠️ Troubleshooting
 
 ### Error: "Tidak ada video yang dipilih"
